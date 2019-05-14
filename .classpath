@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="com.sap.ext.libs.xpi.classpathContainer/mapping"/>
+	<classpathentry kind="con" path="com.sap.ext.libs.xpi.classpathContainer/adapter"/>
+	<classpathentry kind="lib" path="C:/Users/a696809/workspace/NCB_DigitalSignMessage/lib/json-20180130.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a696809/Documents/Java Jars/bouncy castle/bcmail-jdk15on-161.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a696809/Documents/Java Jars/bouncy castle/bcpkix-jdk15on-161.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a696809/Documents/Java Jars/bouncy castle/bcprov-ext-jdk15on-161.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
